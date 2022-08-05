@@ -1,6 +1,6 @@
 ### Hi there! I'm Henri Aïdasso.
 
-I'm passionate about Machine Learning, Software Design & Architecture and Mathematics.
+I'm passionate about Machine Learning, Software Architecture and Mathematics.
 
 <!--
 **ahenrij/ahenrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
