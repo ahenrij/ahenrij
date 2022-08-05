@@ -1,7 +1,5 @@
 ### Hi there! I'm Henri Aïdasso.
 
-<br>
-
 I'm passionate about Machine Learning, Software Design & Architecture and Mathematics.
 
 <!--
