@@ -1,6 +1,6 @@
 ### Hi there! I'm Henri Aïdasso.
 
-I'm currently a Ph.D. Researcher in Artificial Intelligence for IT Operations at ÉTS Montréal. I am passionate about Machine Learning, Software Engineering and Distributed Systems.
+I'm currently a Ph.D. Researcher in Artificial Intelligence for IT Operations. I am passionate about Machine Learning, Software Engineering and Distributed Systems.
 
 <!--
 **ahenrij/ahenrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
