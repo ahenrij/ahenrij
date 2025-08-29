@@ -1,6 +1,6 @@
 ### Hi there! I'm Henri Aïdasso.
 
-Ph.D. Researcher in Intelligent DevOps. I am passionate about Machine Learning, Software Engineering and Distributed Systems.
+Ph.D. Researcher in Engineering, I currently explore cutting-edge AI techniques to improve CI reliability.
 
 <!--
 **ahenrij/ahenrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
